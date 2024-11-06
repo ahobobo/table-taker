@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'ahobobo.github.io'
 languageCode = 'en-us'
 title = 'Table Takers'
 theme = "hugo-dusk"
@@ -18,10 +18,6 @@ theme = "hugo-dusk"
   tag = 'tags'
 
 [menus]
-    [[menus.main]]
-        name = 'Home'
-        pageRef = '/'
-        weight = 10
     [[menus.main]]
         name = 'Blog'
         pageRef = '/blog/'
