@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Table Takers</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Table Takers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character</title>
+      <link>//localhost:1313/tags/character/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/character/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lore</title>
+      <link>//localhost:1313/tags/lore/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/lore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Campaigns</title>
+      <link>//localhost:1313/tags/campaigns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/campaigns/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

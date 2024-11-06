@@ -1,0 +1,28 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Table Takers'
+theme = "hugo-dusk"
+
+
+[params.meta]
+  keywords = "blog, ttrpg, creative"
+  description = "Personal blog."
+[params]
+  mainSections = ['posts']
+
+[taxonomies]
+  campaign = 'campaigns'
+  character = 'characters'
+  game = 'games'
+  session = 'sessions'
+  tag = 'tags'
+
+[menus]
+    [[menus.main]]
+        name = 'Home'
+        pageRef = '/'
+        weight = 10
+    [[menus.main]]
+        name = 'Characters'
+        pageRef = '/characters/'
+        weight = 20
