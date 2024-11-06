@@ -1,4 +1,4 @@
-baseURL = 'ahobobo.github.io/table-taker/'
+baseURL = 'https://ahobobo.github.io/table-taker/'
 languageCode = 'en-us'
 title = 'Table Takers'
 theme = "hugo-dusk"
