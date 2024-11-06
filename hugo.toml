@@ -8,7 +8,7 @@ theme = "hugo-dusk"
   keywords = "blog, ttrpg, creative"
   description = "Personal blog."
 [params]
-  mainSections = ['posts']
+  mainSections = ['posts', 'blog']
 
 [taxonomies]
   campaign = 'campaigns'
@@ -23,6 +23,6 @@ theme = "hugo-dusk"
         pageRef = '/'
         weight = 10
     [[menus.main]]
-        name = 'Characters'
-        pageRef = '/characters/'
+        name = 'Blog'
+        pageRef = '/blog/'
         weight = 20
