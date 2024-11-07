@@ -2,6 +2,7 @@
 title = "About"
 menu = "main"
 weight = 100
+date = '2024-11-07'
 +++
 
 # Welcome to Table Takers!
