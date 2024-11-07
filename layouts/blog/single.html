@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<article class="post">
+    <h1 class="title"> {{ .Title }} </h1>
+    {{ if .Params.author }}
+    <div class="post-author"> By: {{ .Params.author }}</div>
+    {{ end }}
+    <div class="content"> {{ .Content }} </div>
+    {{ partial "postfooter.html" . }}
+</article>
+
+{{ partial "footer.html" . }}

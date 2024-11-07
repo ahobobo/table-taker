@@ -2,6 +2,7 @@
 title = 'Kingmaker Session Fourteen'
 date = '2024-11-06'
 tags = ['session', 'kingmaker']
+author = 'Ahobo'
 +++
 
 # The Gratitude of the Lizard People!  
