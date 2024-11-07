@@ -9,6 +9,7 @@ theme = "hugo-dusk"
   description = "Personal blog."
 [params]
   mainSections = ['posts', 'blog']
+  github = 'https://github.com/ahobobo/table-taker'
 
 [taxonomies]
   campaign = 'campaigns'
