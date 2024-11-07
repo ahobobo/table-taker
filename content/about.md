@@ -4,7 +4,7 @@ menu = "main"
 weight = 100
 +++
 
-# Welcome to table takers!
+# Welcome to Table Takers!
 
 A simple site for the purposes of serving as a place for my players to keep track of campaigns and blog about them.
 
