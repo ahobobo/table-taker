@@ -2,6 +2,7 @@
 title = 'Thoughts on Playing Pathfinder 2e'
 date = '2024-11-06'
 author = 'Ahobo'
+tags = ['pf2e', 'game-system', 'review']
 +++
 
 Pathfinder 2e is a crunchy, high fantasy role playing system that is similar to DnD but has a more
