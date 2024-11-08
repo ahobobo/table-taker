@@ -1,6 +1,6 @@
 +++
 title = 'Brainstorming For Tables and Adventure Ideas'
-tags = ['adventure-design']
+tags = ['adventure-design', 'gm-tips']
 author = 'Ahobo'
 date = '2024-11-07'
 +++
