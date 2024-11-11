@@ -6,7 +6,7 @@ date = '2024-11-07'
 +++
 
 New and up and coming GMs can sometimes be a little worried about adventure writing.
-I myself don't consider myself to be much of a writer. I don't make stories or even think
+I myself am not much of a writer. I don't make stories or even think
 I have the most creative mind. Ideas don't just spring up out of nowhere. 
 
 One thing that has helped me a BUNCH is the idea of brainstorming before you get to writing.
