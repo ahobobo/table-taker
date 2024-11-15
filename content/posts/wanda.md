@@ -8,7 +8,7 @@ tags = ['character', 'lore']
 
 A kobold with a magic relic that gives her freakish strength! 
 
-She is the character I play as in solo games. She does not have a consistent story to her as she gets moved
+She is the character I play as in solo games and my primary oc. She does not have a consistent story to her as she gets moved
 between worlds and game systems frequently. Despite this, a few things always remain true for her.
 
 1. She always has a choker with a red gem around her neck. This is her magic relic and is the source of her
