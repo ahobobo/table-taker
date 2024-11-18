@@ -1,6 +1,6 @@
 +++
 date = '2024-11-18T08:55:11-05:00'
-draft = true
+draft = false
 title = 'Kingmaker Session 16'
 tags = ['session', 'kingmaker']
 author = 'Ahobo'
