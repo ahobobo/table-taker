@@ -10,6 +10,9 @@ draft = false
     attack = 3
 +++
 
+Wanda almost succumbs to her infection but is saved by the Clan of Cups! She makes a new friend and even finds the way
+out of the dungeons but is dead set on helping her friend before she leaves. 
+
 ## Scene 1
 
 Taking a dip in the waters had relieved me of the itch, but just as the scholar mentioned the vines where invigorated by
