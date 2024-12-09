@@ -1,9 +1,9 @@
 +++
-date = '2024-12-06'
+date = '2024-12-09'
 title = 'Wanda in the Dungeons Session 3'
 tags = ['session', 'colostle', 'solo']
 author = 'Ahobo'
-draft = true
+draft = false
 [notes]
     treasure = 4
     explore = 3
@@ -11,8 +11,6 @@ draft = true
 +++
 
 ## Scene 1
-
-settlement (safe), labyrinth (verdant with trees and grass), lichen rook
 
 Taking a dip in the waters had relieved me of the itch, but just as the scholar mentioned the vines where invigorated by
 the water. I feel ill and weak. The vines seems to grow by the day and I have stopped bothering to remove them.
@@ -58,4 +56,18 @@ speak to the plants around them.
 Lissette was kind enough to have one of her followers show me the most important areas of the city. Including the Clan of the Keys. This clan was lead by a
 woman named Telenna. Apparently she was a legendary navigator and if I was looking for a way to reach the surface, she would be the one to ask. I also
 was introduced to a kind old lady named Kouri. She was only a little taller than me and she was the leader of the Merchant's guild in this city. She was
-assisted by her two daughters Kai and Kalia. Apparently she had many other daughters who ran their own shops in smaller settlements across the Dungeons and Roomlands.
+assisted by her two daughters Kai and Kalia. Apparently she had many other daughters who ran their own shops in smaller settlements across the Dungeons and Roomlands. I also learned about Gorn and Monith. Leaders of the clan of Rings and Cult of Shards respectively.
+
+## Scene 4
+
+A way to the surface has been opened up to me. Telenna could help but my business in the dungeons was not complete. There is no way I
+would leave without first helping Lissette! She insisted that her services where free, but I would not take no for an answer. Eventually,
+she opened up and told me that there is something I could do for her.
+
+Lissette said that she uses magical cups to create her healing elixirs. These cups are only found within the Labyrinths of the
+dungeons. However, there is one type of cup that is exceptionally rare. The Goblet of Healing. This powerful artifact can be used
+to turn water into a healing elixir that can heal any wound. Lissette has heard from her scouts that a nearby Labyrinth has this
+treasure. Sadly the location is dangerous and none of her clan members are well suited for braving the depths.
+
+I assured her that the goblet was as good as hers! Braving one of these Labyrinths was something I was hopping to do anyway. Being
+able to help a friend would just be the cherry on top!
