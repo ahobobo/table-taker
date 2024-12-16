@@ -6,8 +6,8 @@ author = 'Ahobo'
 draft = false
 [notes]
     treasure = 4
-    explore = 3
-    attack = 3
+    explore = 4
+    attack = 4
 +++
 
 Wanda almost succumbs to her infection but is saved by the Clan of Cups! She makes a new friend and even finds the way
