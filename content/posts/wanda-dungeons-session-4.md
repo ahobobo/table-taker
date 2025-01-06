@@ -1,6 +1,6 @@
 +++
 date = '2025-01-06'
-title = 'Wanda in the Dungeons Session 3'
+title = 'Wanda in the Dungeons Session 4'
 tags = ['session', 'colostle', 'solo']
 author = 'Ahobo'
 draft = false
