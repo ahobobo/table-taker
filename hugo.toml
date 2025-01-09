@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Table Takers'
 theme = "hugo-dusk"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+
 
 [params.meta]
   keywords = "blog, ttrpg, creative"
