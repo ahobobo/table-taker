@@ -1,7 +1,7 @@
 +++
 date = '2025-03-04'
 draft = false
-title = 'Kingmaker Session 23'
+title = 'Kingmaker Session 24'
 tags = ['session', 'kingmaker']
 author = 'Ahobo'
 +++
