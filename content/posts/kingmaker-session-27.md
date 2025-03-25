@@ -1,5 +1,5 @@
 +++
-date = '2025-03-17'
+date = '2025-03-25'
 draft = false
 title = 'Kingmaker Session 27'
 tags = ['session', 'kingmaker']
