@@ -2,7 +2,7 @@
 title = 'Improving Social Encounters'
 tags = ['gm-tips', 'storytelling']
 author = 'Ahobo'
-date = '2025-06-25'
+date = '2025-06-26'
 +++
 
 [Chris McDowall](https://www.bastionland.com/) is the creator of Into the Odd, Electric Bastionland and most
