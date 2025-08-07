@@ -62,7 +62,7 @@ investment than 5e. After GMing for a while I believe most players want to:
 * Have impact in the game.
 * Track as little as possible.
 
-Pf2 can do all these things, allows players to get that feeling easier.
+Pf2 can do all these things, but 5e allows players to get that feeling easier.
 
 5e classes tend to be designed to be self sufficient. They have their niche and are naturally good at that
 niche without any outside help. Pf2 classes also have niches, however they tend to require outside support
