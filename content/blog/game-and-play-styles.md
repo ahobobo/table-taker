@@ -2,7 +2,7 @@
 title = 'Gameplay Styles'
 tags = ['gm-tips', 'ttrpg']
 author = 'Ahobo'
-date = '2025-04-15'
+date = '2025-08-12'
 +++
 
 Inspired by a [recent video I watched](https://youtu.be/P7udGsX0SMw?si=V_L97GqaP0Jiv48T) I thought I might talk
