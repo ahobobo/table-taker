@@ -29,7 +29,7 @@ These creatures are space slavers and letting them leave would be immoral.
 After some discussion, the rest of the group agrees. They find the Leng with his associate and two naive monks
 that wish the join the Leng in space. Not realizing that they would be slaves.
 
-The battle is intense. The Leng have cursed mandables that increasingly debilitate their foes. However, the group
+The battle is intense. The Leng have cursed mandibles that increasingly debilitate their foes. However, the group
 is able to dispatch them. The monks, seeing their masters beat, surrender.
 
 ## Conclusion
