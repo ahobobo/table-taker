@@ -2,7 +2,7 @@
 title = 'Pathfinder 3e Wishlist'
 tags = ['review', 'pf2', 'game-system', 'ttrpg']
 author = 'Ahobo'
-date = '2025-11-13'
+date = '2025-11-12'
 +++
 
 Pathfinder 2e is my primary system. I have run the Abomination Vaults and am close to completing
