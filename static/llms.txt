@@ -1,0 +1,25 @@
+# Table Takers
+
+> A personal blog and TTRPG session report repository.
+
+## About
+This site hosts session reports for various TTRPG campaigns, including "Kingmaker" (Pathfinder 2e) and "Wanda in the Dungeons" (Colostle/Solo RPG). It also contains reviews and thoughts on game design and systems.
+
+## Context for AI Agents
+- **Primary Content:** TTRPG Session Reports, Game Reviews, RPG Theory.
+- **Key Campaigns:** 
+    - Kingmaker (Pathfinder 2e)
+    - Wanda in the Dungeons (Colostle)
+- **Author:** Ahobo
+- **Technical Stack:** Built with Hugo, hosted on GitHub Pages.
+
+## Navigation
+- /blog/ - General RPG thoughts and reviews.
+- /posts/ - TTRPG session reports (ordered chronologically).
+- /tags/ - Categorized by game system and topic.
+
+## Metadata Structure
+Most session reports contain structured front-matter:
+- `campaign`: The name of the TTRPG campaign.
+- `game`: The game system used (e.g., Pathfinder 2e).
+- `session`: The session number.
