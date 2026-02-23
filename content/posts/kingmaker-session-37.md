@@ -1,4 +1,7 @@
 +++
+campaign = 'Kingmaker'
+game = 'Pathfinder 2e'
+session = 37
 date = '2025-07-21'
 draft = false
 title = 'Kingmaker Session 37'

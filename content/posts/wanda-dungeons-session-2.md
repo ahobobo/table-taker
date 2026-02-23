@@ -1,4 +1,7 @@
 +++
+campaign = 'Wanda in the Dungeons'
+game = 'Colostle'
+session = 2
 date = '2024-12-05'
 title = 'Wanda in the Dungeons Session 2'
 tags = ['session', 'colostle', 'solo']

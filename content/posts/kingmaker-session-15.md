@@ -1,4 +1,7 @@
 +++
+campaign = 'Kingmaker'
+game = 'Pathfinder 2e'
+session = 15
 title = 'Kingmaker Session Fifteen'
 date = '2024-11-11'
 tags = ['session', 'kingmaker']
