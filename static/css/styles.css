@@ -1,3 +1,18 @@
+:root {
+    --accent-cyan: #65c0d7;
+    --accent-gold: #d4af37;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6, .siteTitle {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.05em;
+}
+
 .post-author {
     color: var(--copyright);
     padding-left: 1em;
@@ -7,3 +22,153 @@
 ul { 
     list-style-type: disclosure-closed;
 }
+
+/* Post Card Polish */
+.post-preview, .post, .content-item {
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+
+.post-preview:hover, .content-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4), 0 0 8px rgba(101, 192, 215, 0.2) !important;
+    border-color: var(--accent-cyan) !important;
+}
+
+/* Button-like 'Read more' */
+.rmore a {
+    display: inline-block;
+    padding: 0.4em 1.2em;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    color: var(--main-text) !important;
+    border: 1px solid var(--accent-cyan) !important;
+    background: transparent !important;
+    transition: all 0.2s ease;
+}
+
+.rmore a:hover {
+    background: var(--accent-cyan) !important;
+    color: var(--main-bg-color) !important;
+    box-shadow: 0 0 10px var(--accent-cyan);
+}
+
+/* Subtle Link Styling */
+.post .content a {
+    color: var(--accent-cyan);
+    text-decoration: underline dotted;
+    text-underline-offset: 4px;
+}
+
+.post .content a:hover {
+    text-decoration: underline solid;
+}
+
+/* TTRPG Shortcodes */
+.loot-box, .side-note {
+    margin: 2em 0;
+    border-radius: 4px;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.loot-box {
+    border-left: 4px solid var(--accent-gold);
+    border-right: 1px solid rgba(212, 175, 55, 0.2);
+    border-top: 1px solid rgba(212, 175, 55, 0.2);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+}
+
+.loot-header {
+    background: rgba(212, 175, 55, 0.1);
+    color: var(--accent-gold);
+    padding: 0.5em 1em;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 1px;
+}
+
+.loot-content {
+    padding: 1em 1.5em;
+}
+
+.side-note {
+    border-left: 4px solid var(--accent-cyan);
+    border-right: 1px solid rgba(101, 192, 215, 0.1);
+    border-top: 1px solid rgba(101, 192, 215, 0.1);
+    border-bottom: 1px solid rgba(101, 192, 215, 0.1);
+}
+
+.note-header {
+    background: rgba(101, 192, 215, 0.05);
+    color: var(--accent-cyan);
+    padding: 0.5em 1em;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 1px;
+}
+
+.note-content {
+    padding: 1em 1.5em;
+    font-style: italic;
+    font-size: 0.95em;
+    color: #cbd5e0;
+}
+
+/* Tag Chips */
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: 0.5em;
+}
+
+.tag a {
+    display: inline-block;
+    padding: 0.2em 0.8em;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    font-size: 0.75em;
+    color: #cbd5e0 !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
+
+.tag a:hover {
+    background: var(--accent-cyan);
+    color: var(--main-bg-color) !important;
+    border-color: var(--accent-cyan);
+    box-shadow: 0 0 5px var(--accent-cyan);
+}
+
+/* Session Meta */
+.session-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    margin: -0.5em 0 1.5em 0;
+    font-family: 'Cinzel', serif;
+    font-size: 1.5em;
+    color: #a0aec0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding-bottom: 1em;
+}
+
+.session-meta span {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.session-meta .campaign::before { content: '🏰'; }
+.session-meta .game::before { content: '🎲'; }
+.session-meta .session::before { content: '📜'; }

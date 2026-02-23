@@ -2,11 +2,19 @@
 
 <article class="post">
     <h1 class="title"> {{ .Title }} </h1>
+    {{ if or .Params.campaign .Params.game .Params.session }}
+    <div class="session-meta">
+      {{ if .Params.campaign }}<span class="campaign">{{ .Params.campaign }}</span>{{ end }}
+      {{ if .Params.game }}<span class="game">{{ .Params.game }}</span>{{ end }}
+      {{ if .Params.session }}<span class="session">Session #{{ .Params.session }}</span>{{ end }}
+    </div>
+    {{ end }}
     {{ if .Params.author }}
     <div class="post-author"> By: {{ .Params.author }}</div>
     {{ end }}
     <div class="content"> {{ .Content }} </div>
     {{ partial "postfooter.html" . }}
 </article>
+
 
 {{ partial "footer.html" . }}

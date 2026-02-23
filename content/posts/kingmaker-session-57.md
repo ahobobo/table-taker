@@ -4,6 +4,9 @@ draft = false
 title = 'Kingmaker Session 57'
 tags = ['session', 'kingmaker']
 author = 'Ahobo'
+campaign = 'Kingmaker'
+game = 'Pathfinder 2e'
+session = 57
 +++
 
 The final battle and grand finally to the Kingmaker Adventure Path! The group
