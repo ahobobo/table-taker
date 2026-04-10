@@ -2,7 +2,7 @@
 campaign = 'Foodtropolise'
 game = 'Fate Accelerated'
 session = 2
-date = '2026-04-100'
+date = '2026-04-10'
 draft = false
 title = 'Foodtropolise Session 3'
 tags = ['session', 'foodtropolise']
