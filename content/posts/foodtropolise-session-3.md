@@ -1,7 +1,7 @@
 +++
 campaign = 'Foodtropolise'
 game = 'Fate Accelerated'
-session = 2
+session = 3
 date = '2026-04-10'
 draft = false
 title = 'Foodtropolise Session 3'
