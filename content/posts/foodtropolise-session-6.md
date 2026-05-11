@@ -67,7 +67,7 @@ The group survives the assault! They also shortly after get a call from a concer
 He is relieved and impressed by the group. He also calls on them for one last job, he needs protection in the coming debate
 against Leonard. He plans to spill the beans on that debate and he knows for a fact that the Mayor would do everything in
 his power to stop him. 
-that
+
 Will the group be able to protect Grepi from the greedy Leonard? Will the lion's dirty deeds finally be exposed to the public?
 Just how much weight has the cast gained over the course of this adventure? All of these questions and more will be answered in
 the final session... Next time!
